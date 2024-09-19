@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# mi_card
 
 A new Flutter project.
 
